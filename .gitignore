@@ -8,3 +8,7 @@ build/
 
 .flutter-plugins
 /android/.idea
+/.idea
+/kaiyan_android.iml
+/flutter_01.log
+/kaiyan.iml
