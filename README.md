@@ -14,7 +14,11 @@
 
 ## Apk下载
 
-[下载地址](https://pan.baidu.com/s/1RtzKLrGYEJCdfRqO9Jamtw)
+[百度云下载地址](https://pan.baidu.com/s/1RtzKLrGYEJCdfRqO9Jamtw)
+
+**github**:
+
+![github](http://ww1.sinaimg.cn/large/006rV8gJgy1fu7w52npk1j3064064jr9.jpg)
 
 ## 预览图片
 
