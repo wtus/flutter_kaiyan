@@ -105,7 +105,7 @@ buildItems() {}
 
 void request() {
   Dio()
-      .get('http://baobab.kaiyanapp.com/api/v4/categories/videoList?id=14')
+      .get('http://www.wanandroid.com/tools/mockapi/8977/kanyan')
       .then((res) {
     final _data = res;
     final items = _data.data['itemList'];

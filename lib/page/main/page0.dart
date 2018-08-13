@@ -27,7 +27,7 @@ class _Page0State extends State<Page0> with SingleTickerProviderStateMixin {
   void initState() {
     _tempController = new TabController(vsync: this, length: 0);
     super.initState();
-    Dio().get('http://baobab.kaiyanapp.com/api/v4/categories').then((res) {
+    Dio().get('http://www.wanandroid.com/tools/mockapi/8977/kanyan_tag').then((res) {
       tabs = Constant.tabs_name.map((it) {
         return Tab(
           text: it,

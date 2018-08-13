@@ -30,7 +30,7 @@ class _ComontTabPageState extends State<ComontTabPage> {
     super.initState();
     Dio()
         .get(
-            'http://baobab.kaiyanapp.com/api/v4/categories/videoList?id=${widget.id}')
+            'http://www.wanandroid.com/tools/mockapi/8977/kanyan')
         .then((res) {
       _data = res;
       _buildList();
